@@ -1,3 +1,3 @@
 # CMake Compile Tutorial for Raspberry Pi OS
 
-- https://sites.google.com/view/raspberrypibuenosaires/cmake
+- https://sites.google.com/view/lucianostech/cmake
